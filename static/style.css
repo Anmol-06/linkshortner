@@ -249,3 +249,16 @@ body {
         flex-direction: column;
     }
 }
+.footer {
+    text-align: center;
+    color: white;
+    margin-top: 40px;
+    padding: 20px;
+    font-size: 14px;
+    opacity: 0.9;
+}
+
+.footer strong {
+    font-weight: bold;
+    color: #fff;
+}
